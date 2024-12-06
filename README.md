@@ -4,7 +4,7 @@
 
 This project is archived and thus no *longer maintained* as of 17/09/2024.
 
-A rebooted version with more features is available at https://github.com/Darmo117/ImagesLibrary.
+A rebooted version with more features is available at https://github.com/DamiaV/ImagesLibrary.
 
 ## Description
 
@@ -173,4 +173,4 @@ See [requirements.txt](https://github.com/Darmo117/ImageDatabase/blob/master/req
 
 ## Author
 
-- Damia Vergnet [@Darmo117](https://github.com/Darmo117)
+- Damia Vergnet [@DamiaV](https://github.com/DamiaV)
